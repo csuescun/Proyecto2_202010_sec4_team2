@@ -8,4 +8,23 @@ public class RedBlackBST<Key extends Comparable<Key>, Value>
      */
     public RedBlackBST() {
     }
+    
+    private boolean isRed()
+    {
+    	return false;
+    }
+    private Node rotateLeft()
+    {
+    	return null;
+    }
+    
+    private Node rotateRight()
+    {
+    	return null;
+    }
+    
+    private void flipColors()
+    {
+    	
+    }
 }
